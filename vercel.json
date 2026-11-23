@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/download/OTECH-setup.exe",
+      "destination": "https://rsmevpbbilqtjoccayla.supabase.co/storage/v1/object/public/downloads/OTECH-0.1.164-setup.exe"
+    },
+    {
+      "source": "/download",
+      "destination": "/download/OTECH-setup.exe"
+    }
+  ]
+}
