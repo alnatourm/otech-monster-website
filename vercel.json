@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/download/OTECH-setup.exe",
-      "destination": "https://github.com/alnatourm/obot/releases/download/v0.1.164/OTECH-0.1.164-setup.exe",
+      "destination": "https://github.com/alnatourm/obot/releases/download/v0.1.165/OTECH-0.1.165-setup.exe",
       "permanent": false
     },
     {
