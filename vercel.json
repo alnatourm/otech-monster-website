@@ -7,6 +7,11 @@
       "permanent": false
     },
     {
+      "source": "/download/OTECH.appx",
+      "destination": "https://github.com/alnatourm/obot/releases/download/v0.1.166/OTECH-0.1.166.appx",
+      "permanent": false
+    },
+    {
       "source": "/download",
       "destination": "/download/OTECH-setup.exe",
       "permanent": false
